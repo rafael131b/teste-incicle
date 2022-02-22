@@ -53,6 +53,10 @@ h2{
 .buttonMore:hover{
     cursor: pointer;
 }
+.contentType{
+    width: 70px;
+    border-radius:20px;
+}
 
 // modal
 

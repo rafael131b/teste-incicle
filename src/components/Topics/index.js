@@ -22,7 +22,7 @@ const Topics=({image,title,type,date,confirmation,local,description,id,invite})=
                     
                         
                         <div className="contentInvite">
-                            <button style={{backgroundColor:`${TypeColors(type)}`}}>{type}</button>
+                            <button className="contentType" style={{backgroundColor:`${TypeColors(type)}`}}>{type}</button>
                             <p> {local} |</p>
                             <p>{date} |</p>
                             <p>{confirmation}</p>
