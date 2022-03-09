@@ -5,7 +5,8 @@ export const theme={
     grayDark:"#707070",
     grayLight:"#F2F3F5",
     salmom:" #FFF2DE",
-    white:"#ffffff"
+    white:"#ffffff",
+    pink:"#EE8686"
 
     
 

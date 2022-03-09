@@ -1,10 +1,14 @@
 
 import './App.css';
-
+import Header from './components/header';
+import Main from './Sections/Main';
+import globals from "../src/styles/globals.css"
 function App() {
   return (
     <div className="App">
-      <h1>Testando</h1>
+      <Header/>
+      <Main/>
+      
       </div>
   );
 }
